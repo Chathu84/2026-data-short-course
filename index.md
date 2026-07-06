@@ -29,7 +29,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/LillyJones.jpg?itok=z2Zrhqoc" width="125" height="125">
 
 ### **Lilly Jones**
 
