@@ -49,7 +49,7 @@ We appreciate these partnerships and look forward to working with you all!
 > * [Markdown guide](https://www.markdownguide.org/basic-syntax/)
 > * [GitHub](https://docs.github.com/en/get-started)
 > * [GitHub pages](https://docs.github.com/en/pages)
-> * [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#themes)
+> * [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 
 
 ## **Week 1 - Wednesday, July 15** - Mapping with OpenStreetMap
